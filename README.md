@@ -1,5 +1,5 @@
 # Python-web-server
-A python web server that uses stream sockets
+A python web server implemented using stream sockets
 
 The server will listen for connections that come to a specific host and port number.
 
